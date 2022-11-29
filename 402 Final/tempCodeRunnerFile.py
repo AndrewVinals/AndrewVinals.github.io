@@ -1,1 +1,0 @@
-name, birth FROM pet
